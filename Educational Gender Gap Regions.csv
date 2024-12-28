@@ -1,0 +1,13 @@
+NUTS1ClassificationCode,RegionName,gap_1985,gap_1990,gap_2000,gap_2008,gap_2011,gap_2015,gap_2018
+1,Istanbul,.18,.16,.11,.21,.1,.1,.08
+2,Western Marmara,.21,.19,.15,.19,.13,.12,.11
+3,Aegean,.16,.15,.11,.19,.13,.12,.1
+4,Eastern Marmara,.14,.14,.11,.2,.12,.12,.1
+5,Western Anatolia,.14,.13,.09,.2,.09,.09,.07
+6,Mediterranean,.18,.17,.12,.18,.16,.15,.16
+7,Central Anatolia,.13,.13,.12,.19,.18,.16,.14
+8,Western Black Sea,.11,.1,.09,.16,.18,.17,.16
+9,Eastern Black Sea,.13,.13,.14,.24,.24,.24,.22
+10,Northeastern Anatolia,.24,.22,.23,.19,.29,.28,.26
+11,Middle Eastern Anatolia,.26,.24,.26,.21,.33,.32,.29
+12,Southeastern Anatolia,.28,.27,.24,.18,.31,.3,.27
